@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Mechanic</string>
+    <string name="settingsHmenu">Settings</string>
+    <string name="usersHmenu">Users</string>
+    <string name="about_usHmenu">About Us</string>
+    <string name="contact_usHmenu">Contact Us</string>
+    <string name="seamEmail">info@seam.com</string>
+    <string name="newt">New</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+</resources>

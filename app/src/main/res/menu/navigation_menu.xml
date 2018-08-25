@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:title="@string/newt"
+            android:id="@+id/n1"/>
+        <item
+            android:title="@string/newt"
+            android:id="@+id/n2"/>
+        <item
+            android:title="@string/newt"
+            android:id="@+id/n3"/>
+        <item
+            android:title="@string/newt"
+            android:id="@+id/n4"/>
+        <item
+            android:title="@string/newt"
+            android:id="@+id/n5"/>
+    </group>
+    <item android:title="Advanced Options">
+        <menu>
+            <item
+                android:title="@string/newt"
+                android:id="@+id/n6"/>
+            <item
+                android:title="@string/newt"
+                android:id="@+id/n7"/>
+            <item
+                android:title="@string/newt"
+                android:id="@+id/n8"/>
+        </menu>
+    </item>
+</menu>
