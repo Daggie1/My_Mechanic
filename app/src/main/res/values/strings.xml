@@ -8,5 +8,9 @@
     <string name="newt">New</string>
     <string name="open_drawer">Open Drawer</string>
     <string name="close_drawer">Close Drawer</string>
+    <string name="enter_a_service_name">Enter a Service name</string>
+    <string name="add_service">Add Service</string>
+    <string name="choose">Choose</string>
+    <string name="accountname">AccountName</string>
 
 </resources>

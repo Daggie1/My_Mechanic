@@ -7,10 +7,16 @@
     android:orientation="vertical"
     tools:context="com.example.anonymous.Mymechanic.HomeActivity">
     <include layout="@layout/genera_toolbar"/>
-   <FrameLayout
-       android:id="@+id/fragmentContainer"
-       android:layout_width="match_parent"
-       android:layout_height="match_parent"/>
 
-    
+
+
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/mechcardView2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+
 </LinearLayout>
